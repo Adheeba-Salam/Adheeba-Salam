@@ -76,15 +76,10 @@ Projects exploring web development and practical software applications.
 
 ---
 
-## 🔬 Research
-
-### Deep Learning-Based Detection of Unauthorized Pipe Connections in Sewer Systems
-
-Research work applying deep learning and computer vision techniques to identify unauthorized wastewater pipe connections from sewer CCTV imagery.
-
-**Areas:** Deep Learning • Computer Vision • Object Detection • YOLO • Python
-
----
+##🔬 Research Publication — Springer
+Automated Detection of the Illegal Wastewater Pipes in the Urban Drainage System: A Review and Research Outline
+ICSMDI 2026 • Paper ID: ICSMDI 190
+Co-author: Adheeba Salam
 
 ## 🎯 Currently Working On
 
