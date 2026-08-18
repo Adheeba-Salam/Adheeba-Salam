@@ -99,9 +99,10 @@ Research work applying deep learning and computer vision techniques to identify 
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: **Coming soon**
+* 💼 LinkedIn: 
 * 🌐 Portfolio: **Coming soon**
-* 📧 Email: **Add your professional email**
+* 📧 Email: adheeba00@gmail.com
+  
 
 ---
 
