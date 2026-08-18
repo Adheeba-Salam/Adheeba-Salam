@@ -31,6 +31,12 @@ I enjoy solving real-world problems through software and exploring how intellige
 * C
 * Java
 
+### Web Development
+
+* HTML
+* CSS
+* React
+
 ### AI / Machine Learning
 
 * Artificial Intelligence
