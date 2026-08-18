@@ -58,15 +58,13 @@ I enjoy solving real-world problems through software and exploring how intellige
 
 ## 📌 Featured Projects
 
-### 🔍 Unauthorized Pipe Connection Detection
+## 🔬 Research
 
-A deep-learning-based computer vision system designed to detect unauthorized pipe connections in sewer systems using CCTV imagery.
+### Automated Detection of the Illegal Wastewater Pipes in the Urban Drainage System: A Review and Research Outline
 
-**Technologies:** Python • YOLO • OpenCV • PyTorch • Roboflow
+Research work exploring the use of deep learning and computer vision techniques for the automated detection of illegal wastewater pipe connections in urban drainage systems.
 
-➡️ [View Project](https://github.com/Adheeba05/Sewer-CCTV.v1i.folder)
-
----
+**Areas:** Deep Learning • Computer Vision • Object Detection • YOLO • Python
 
 ### 💻 Web Development Projects
 
