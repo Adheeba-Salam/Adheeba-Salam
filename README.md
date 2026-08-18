@@ -76,9 +76,11 @@ A deep-learning-based computer vision system designed to detect unauthorized pip
 
 ---
 
-### 💻 Web Development Projects
+### 💻 HAND TRACKING BASED TOUCHLESS ATM
 
-Projects exploring web development and practical software applications.
+A computer vision-based ATM interface that enables users to interact with ATM functions using hand gestures without physically touching the interface.
+
+**Technologies:** Python • Mediapipe • OpenCV • Computer vision  • Git
 
 [View Repository](https://github.com/Adheeba05/Web)
 
