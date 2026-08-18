@@ -4,21 +4,22 @@
 
 I'm a 2026 Computer Science Engineering graduate passionate about building practical software using **Python, Artificial Intelligence, Machine Learning, and Computer Vision**.
 
-I enjoy solving real-world problems through software and exploring how intelligent systems can be developed, tested, and deployed.
+I enjoy solving real-world problems through software and exploring how intelligent systems can be developed and applied to practical challenges.
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
 * 🎓 B.Tech in Computer Science & Engineering — 2026
-* 🐍 Strong interest in **Python development**
-* 🤖 Interested in **AI, Machine Learning & Deep Learning**
+* 🐍 Interested in **Python Development**
+* 🤖 Interested in **Artificial Intelligence & Machine Learning**
+* 📊 Interested in **Data Science**
 * 👁️ Experience with **Computer Vision**
 * 🧠 Worked with **YOLO, OpenCV, PyTorch and MediaPipe**
+* 🖥️ Built applications using **Tkinter**
 * 🗄️ Experience with **MySQL**
-* 🖥️ Built desktop applications using **Tkinter**
-* 🔬 Co-authored research on deep-learning-based sewer pipe detection
-* 💡 Currently strengthening my skills in **software engineering, backend development and scalable applications**
+* 🔬 Research experience in deep learning and computer vision
+* 💡 Currently strengthening my **software engineering and backend development** skills
 
 ---
 
@@ -32,6 +33,7 @@ I enjoy solving real-world problems through software and exploring how intellige
 
 ### AI / Machine Learning
 
+* Artificial Intelligence
 * Machine Learning
 * Deep Learning
 * Data Science
@@ -39,14 +41,14 @@ I enjoy solving real-world problems through software and exploring how intellige
 * YOLO
 * PyTorch
 
-### Python & Computer Vision
+### Libraries & Frameworks
 
 * OpenCV
 * MediaPipe
 * face_recognition
 * Tkinter
 
-### Database & Development
+### Database & Tools
 
 * MySQL
 * Git
@@ -58,6 +60,24 @@ I enjoy solving real-world problems through software and exploring how intellige
 
 ## 📌 Featured Projects
 
+### 🔍 Unauthorized Pipe Connection Detection
+
+A deep-learning-based computer vision system designed to detect unauthorized pipe connections in sewer systems using CCTV imagery.
+
+**Technologies:** Python • YOLO • OpenCV • PyTorch • Roboflow
+
+[View Project](https://github.com/Adheeba05/Sewer-CCTV.v1i.folder)
+
+---
+
+### 💻 Web Development Projects
+
+Projects exploring web development and practical software applications.
+
+[View Repository](https://github.com/Adheeba05/Web)
+
+---
+
 ## 🔬 Research
 
 ### Automated Detection of the Illegal Wastewater Pipes in the Urban Drainage System: A Review and Research Outline
@@ -66,18 +86,10 @@ Research work exploring the use of deep learning and computer vision techniques 
 
 **Areas:** Deep Learning • Computer Vision • Object Detection • YOLO • Python
 
-### 💻 Web Development Projects
-
-Projects exploring web development and practical software applications.
-
-➡️ [View Repository](https://github.com/Adheeba05/Web)
+**Conference:** 6th International Conference on Smart Data Intelligence (ICSMDI 2026)
+**Paper ID:** ICSMDI 190
 
 ---
-
-##🔬 Research Publication — Springer
-Automated Detection of the Illegal Wastewater Pipes in the Urban Drainage System: A Review and Research Outline
-ICSMDI 2026 • Paper ID: ICSMDI 190
-Co-author: Adheeba Salam
 
 ## 🎯 Currently Working On
 
@@ -86,18 +98,16 @@ Co-author: Adheeba Salam
 * Improving SQL and database skills
 * Learning software testing and clean-code practices
 * Developing Dockerized applications
-* Building more production-oriented projects
+* Building practical software projects
 
 ---
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: 
-* 🌐 Portfolio: **Coming soon**
-* 📧 Email: adheeba00@gmail.com
-  
+* 💼 LinkedIn: Coming soon
+* 🌐 Portfolio: Coming soon
+* 📧 Email: Add your professional email
 
 ---
 
 ⭐ Thanks for visiting my profile!
-
