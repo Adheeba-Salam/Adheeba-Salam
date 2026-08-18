@@ -70,7 +70,7 @@ I enjoy solving real-world problems through software and exploring how intellige
 
 A deep-learning-based computer vision system designed to detect unauthorized pipe connections in sewer systems using CCTV imagery.
 
-**Technologies:** Python • YOLO • OpenCV • PyTorch • Roboflow
+**Technologies:** Python • YOLO • OpenCV • PyTorch • Roboflow • Tkinter • Git
 
 [View Project](https://github.com/Adheeba05/Sewer-CCTV.v1i.folder)
 
