@@ -29,7 +29,7 @@ I enjoy solving real-world problems through software and exploring how intellige
 
 * Python
 * C
-* Object-Oriented Programming
+* Java
 
 ### AI / Machine Learning
 
