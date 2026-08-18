@@ -80,9 +80,9 @@ A deep-learning-based computer vision system designed to detect unauthorized pip
 
 A computer vision-based ATM interface that enables users to interact with ATM functions using hand gestures without physically touching the interface.
 
-**Technologies:** Python • Mediapipe • OpenCV • Computer vision  • Git
+**Technologies:** Python • Mediapipe • OpenCV • Computer vision  • Git • Hand Tracking
 
-[View Repository](https://github.com/Adheeba05/Web)
+[View Project]([https://github.com/Adheeba05/Web](https://github.com/Adheeba-Salam/Hand-Tracking-Based-Touchless-ATM))
 
 ---
 
