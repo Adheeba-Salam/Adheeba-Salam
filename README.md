@@ -106,7 +106,7 @@ Research work exploring the use of deep learning and computer vision techniques 
 
 * 💼 LinkedIn: Coming soon
 * 🌐 Portfolio: Coming soon
-* 📧 Email: Add your professional email
+* 📧 Email: adheeba00@gmail.com
 
 ---
 
