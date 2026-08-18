@@ -66,7 +66,7 @@ I enjoy solving real-world problems through software and exploring how intellige
 
 ## 📌 Featured Projects
 
-### 🔍 Unauthorized Pipe Connection Detection
+### 🔍 SEWER VISION
 
 A deep-learning-based computer vision system designed to detect unauthorized pipe connections in sewer systems using CCTV imagery.
 
