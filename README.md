@@ -72,7 +72,7 @@ A deep-learning-based computer vision system designed to detect unauthorized pip
 
 **Technologies:** Python • YOLO • OpenCV • PyTorch • Roboflow • Tkinter • Git
 
-[View Project](https://github.com/Adheeba05/Sewer-CCTV.v1i.folder)
+[View Project](https://github.com/Adheeba-Salam/SEWER VISION)
 
 ---
 
