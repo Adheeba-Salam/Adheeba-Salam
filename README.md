@@ -19,6 +19,9 @@ I enjoy solving real-world problems through software and exploring how intellige
 * 🖥️ Built applications using **Tkinter**
 * 🗄️ Experience with **MySQL**
 * 🔬 Research experience in deep learning and computer vision
+* 💻 Experience building **software and full-stack applications**
+* 🔌 Interested in **Backend Development and APIs**
+* 🐳 Experience with **Docker and Linux**
 * 💡 Currently strengthening my **software engineering and backend development** skills
 
 ---
@@ -35,7 +38,20 @@ I enjoy solving real-world problems through software and exploring how intellige
 
 * HTML
 * CSS
+* JavaScript
 * React
+
+### Backend & Software Engineering
+
+* Python Backend Development
+* REST APIs
+* Object-Oriented Programming
+* SQL
+* Database Management
+* Software Development
+* Git & GitHub
+* Docker
+* Linux
 
 ### AI / Machine Learning
 
@@ -44,6 +60,7 @@ I enjoy solving real-world problems through software and exploring how intellige
 * Deep Learning
 * Data Science
 * Computer Vision
+* Object Detection
 * YOLO
 * PyTorch
 
@@ -53,6 +70,7 @@ I enjoy solving real-world problems through software and exploring how intellige
 * MediaPipe
 * face_recognition
 * Tkinter
+* Ultralytics
 
 ### Database & Tools
 
@@ -61,6 +79,7 @@ I enjoy solving real-world problems through software and exploring how intellige
 * GitHub
 * Docker
 * Linux
+* Roboflow
 
 ---
 
@@ -70,9 +89,21 @@ I enjoy solving real-world problems through software and exploring how intellige
 
 A deep-learning-based computer vision system designed to detect unauthorized pipe connections in sewer systems using CCTV imagery.
 
-**Technologies:** Python • YOLO • OpenCV • PyTorch • Roboflow • Tkinter • Tensorflow • Git
+**Technologies:** Python • YOLO • OpenCV • PyTorch • Roboflow • Tkinter • Git
 
 [View Project](https://github.com/Adheeba-Salam/SEWERVISION)
+
+---
+
+### 💰 FINFLOW
+
+A personal finance management application designed to help users track income, expenses, budgets, and financial activity through a clean and intuitive interface.
+
+The project demonstrates practical software engineering concepts including application development, data management, database integration, and user-focused interface design.
+
+**Technologies:** Python • Backend Development • APIs • SQL • Database Management • HTML • CSS • JavaScript • Git • GitHub • Docker
+
+[View Project](https://github.com/Adheeba-Salam/FinFlow)
 
 ---
 
@@ -80,9 +111,9 @@ A deep-learning-based computer vision system designed to detect unauthorized pip
 
 A computer vision-based ATM interface that enables users to interact with ATM functions using hand gestures without physically touching the interface.
 
-**Technologies:** Python • Mediapipe • OpenCV • Computer vision  • Git • Hand Tracking
+**Technologies:** Python • MediaPipe • OpenCV • Computer Vision • Git • Hand Tracking
 
-[View Project]([https://github.com/Adheeba05/Web](https://github.com/Adheeba-Salam/Hand-Tracking-Based-Touchless-ATM))
+[View Project](https://github.com/Adheeba-Salam/Hand-Tracking-Based-Touchless-ATM)
 
 ---
 
@@ -107,14 +138,15 @@ Research work exploring the use of deep learning and computer vision techniques 
 * Learning software testing and clean-code practices
 * Developing Dockerized applications
 * Building practical software projects
+* Improving full-stack development skills
 
 ---
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: Coming soon
-* 🌐 Portfolio: Coming soon
-* 📧 Email: adheeba00@gmail.com
+* 💼 LinkedIn: https://www.linkedin.com/in/adheeba-salam/
+* 🌐 Portfolio: https://adheeba-salam.github.io/
+* 📧 Email: [adheeba00@gmail.com](mailto:adheeba00@gmail.com)
 
 ---
 
